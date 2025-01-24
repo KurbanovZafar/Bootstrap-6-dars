@@ -1,0 +1,52 @@
+.a{
+    background: linear-gradient(90deg, #ff0f8b, purple);
+    color: white;
+}
+.b{
+    background: linear-gradient(90deg, #4242ff, #0000ff);
+    color: white;
+}
+.c{
+    background: linear-gradient(135deg, orange, #fb2424);
+    color: white;
+}
+.d{
+    background: linear-gradient(90deg, #570487, #9c07ff);
+    color: white;
+}
+.f{
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 40px;
+}
+.e{
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 75px;
+}
+.g{
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 75px;
+}
+.j{
+    font-size: 50px;
+    margin-top: -65px;
+    margin-left: 60px;
+}
+.x{
+    color: white;
+    font-size: 30px;
+}
+.n{
+    border: 1px solid purple;
+    color: purple;
+}
+.m{
+    border: 1px solid red;
+    color: red;
+}
+.l{
+    border: 1px solid blue;
+    color: blue;
+}
